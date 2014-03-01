@@ -1,0 +1,1 @@
+This is my improved bubbleSort algorithm.  I have seen some implementations that track if the array is sorted while working in the middle, but this tracks where the last swap occured so it can jump ahead on partially sorted lists.
